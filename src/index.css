@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure your build process uses PostCSS with Tailwind CSS plugin */
